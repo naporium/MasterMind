@@ -182,6 +182,11 @@ def final_message():
 
 
 def main():
+    """
+    CARREGA O JOGO
+    :return:
+    """
+
     global NUMBER_OF_PLAYS
     NUMBER_OF_PLAYS = 10
     current_play = 1
